@@ -1,0 +1,24 @@
+  CONTROL:
+
+	Use numbers on the keyboard to type an answer.
+	If answer is a negative number use '-'.
+	Use "Enter" to accept your answer.
+	Use "Esc" for exit from game process.
+
+	P.S.: If you didn't guess 'arrows' are responsible for menu navigation. :D
+
+  RULES:
+
+	There is a core of mathematics. Objects are moving on it.
+	When object reaches the core the lives at the core is taken away.
+	Objects are mathematical tasks.
+	The player requires that objects to the core are not allowed. To do this, he needs to solve the problem
+		which is an object and "charge" the correct solution to the tower.
+	"Shot" the correct solution  from the tower on the object will destroy it.
+	"Shot" wrong decision from the tower will accelerate the movement of the object to the core.
+
+
+
+
+
+									Developed by Autistic Smart Studio (c)

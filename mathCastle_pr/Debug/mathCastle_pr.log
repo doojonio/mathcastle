@@ -1,0 +1,3 @@
+﻿  menu.cpp
+e:\menu.cpp(415): warning C4715: 'choice': not all control paths return a value
+  mathCastle_pr.vcxproj -> C:\Users\tosha\Desktop\mathCastle_pr\Debug\mathCastle_pr.exe
